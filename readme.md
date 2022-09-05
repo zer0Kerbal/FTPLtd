@@ -22,8 +22,6 @@ An original creation by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/img/HeroLogo_1920x1920.png" alt="FTPLtd Hero" width="50%" height="50%">
 
-<img src="https://github.com/zer0Kerbal/FTPLtd/blob/master/img/Hero-01.jpg?raw=true" alt="Fuel Tanks Plus" width="100%" height="100%">
-
 ### See
 
 >* [GitHub Pages][MOD:pages]
