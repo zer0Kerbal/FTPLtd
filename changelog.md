@@ -10,6 +10,17 @@
 | spacedock  | (https://spacedock.info/mod/)                                     |
 | ckan       | FTPLtd                                                            |
 
+## Version 0.9.99.1-prerelease - `<Corporate Assets>` edition
+
+* 04 Sep 2022  
+* Released for Kerbal Space Program KSP 1.12.3
+
+### Summary 0.9.99.1
+
+* Add Assets
+
+---
+
 ## Version 0.9.99.0-prerelease - `<Articles of Incorporation>` edition
 
 * 04 Sep 2022  
@@ -22,11 +33,11 @@
 * Agent
   * [Agents.cfg] v1.0.0.0
 * Flags
-  * [SpaceY.png]
-  * uses assets from SpaceY Lifters, see Attributions.md for details
+  * [FuelTanksPlus.png]
+  * uses assets from FuelTanksPlus, see Attributions.md for details
 * Create
   * HeroLogo
-* closes #26 - Create HeroLogo.png
+* closes #24 - Create HeroLogo.png
 
 ### Localization
 
@@ -49,14 +60,14 @@
   * [Localizations.md] v1.1.7.0
   * [Notices.md] v1.0.1.0
   * [Why.md] v1.1.0.0
-* closes #24 - Create GitHub Pages
+* closes #26 - Create GitHub Pages
 
 ### Status
 
 * Issues
-  * closes #1 - SpaceY Corp (SYC) 0.9.99.0-prerelease `<Articles of Incorporation>` edition
-  * closes #2 - 0.9.99.0 Create Legal Mumbo Jumbo
-  * closes #3 - 0.9.99.0 Create Documentation
-  * closes #4 - 0.9.99.0 Create Social Media
+  * closes #2 - FTP Ltd (FTPL) 0.9.99.0-prerelease `<Articles of Incorporation>`
+  * closes #3 - 0.9.99.0 Verify Legal Mumbo Jumbo
+  * closes #4 - 0.9.99.0 Update Documentation
+  * closes #5 - 0.9.99.0 Update Social Media
 
 ---
