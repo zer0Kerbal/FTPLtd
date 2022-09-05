@@ -165,7 +165,7 @@ agency, flags, config
 [MOD:attr]: https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/Attribution.md "Attribution"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/changelog.md  "Changelog"
 [MOD:discu]: https://github.com/zer0Kerbal/FTPLtd/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/207702-*/ "FTPLtd Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/209628-*/ "FTPLtd Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/FTPLtd/issues "Issues"
 [MOD:pages]: https://zer0kerbal.github.io/FTPLtd/ "GitHub Pages"
 [MOD:notic]: https://zer0kerbal.github.io/FTPLtd/Notices "Notices"
