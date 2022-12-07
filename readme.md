@@ -260,7 +260,7 @@ agency, flags, config
 [reddit]: https://www.reddit.com/user/zer0Kerbal
 [twitch]: https://www.twitch.tv/zer0kerbal
 [twitter]: https://twitter.com/zer0Kerbal
-[youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
+[youtube]: https://www.youtube.com/@zer0Kerbal
 
 
 [necrobones]:  https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/ "NecroBones"
