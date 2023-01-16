@@ -16,7 +16,7 @@ updated: 29 Jul 2022 -->
 
 [Home](./index.md)
 
-Adds FTP Ltd's agent, flags, and common config files used in all Fuel Tanks Plus add-ons for Kerbal Space Program.
+Agent, flags, models, textures, and common config files used in all Fuel Tanks Plus add-ons for Kerbal Space Program
 
 ## Installation Instructions
 
@@ -52,9 +52,10 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [FuelTanksPlus]
-      + [Assets]
-        ...
+      ...
       + [FTPLtd]
+        + [Assets]
+        ...
         + [Agencies]
           ...
         + [Compatibility]
@@ -65,14 +66,12 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
           ...
         + [Localization]
           ...
-        + [Parts]
-          ...
         * #.#.#.#.htm
         * Attributions.htm
-        * changelog.md
         * CC-BY-SA-4.0.txt
+        * changelog.md
         * FTPLtd.version
-          ManualInstallation.htm
+        * ManualInstallation.htm
         * readme.htm
         ...
       ...

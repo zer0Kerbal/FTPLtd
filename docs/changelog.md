@@ -18,7 +18,7 @@ this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209628-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/FTPLtd)                 |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/FTPLtd)               |
-| spacedock  | (https://spacedock.info/mod/)                                     |
+| spacedock  | (https://spacedock.info/mod/3109)                                     |
 | ckan       | FTPLtd                                                            |
 
 ## Version 0.9.99.0-prerelease - `<Articles of Incorporation>` edition
@@ -33,11 +33,11 @@ this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog
 * Agent
   * [Agents.cfg] v1.0.0.0
 * Flags
-  * [FuelTanksPlus.png]
-  * uses assets from FuelTanksPlus, see Attributions.md for details
+  * [SpaceY.png]
+  * uses assets from SpaceY Lifters, see Attributions.md for details
 * Create
   * HeroLogo
-* closes #24 - Create HeroLogo.png
+* closes #26 - Create HeroLogo.png
 
 ### Localization
 
@@ -60,14 +60,15 @@ this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog
   * [Localizations.md] v1.1.7.0
   * [Notices.md] v1.0.1.0
   * [Why.md] v1.1.0.0
-* closes #26 - Create GitHub Pages
+* closes #24 - Create GitHub Pages
 
 ### Status
 
 * Issues
-  * closes #2 - FTP Ltd (FTPL) 0.9.99.0-prerelease `<Articles of Incorporation>`
-  * closes #3 - 0.9.99.0 Verify Legal Mumbo Jumbo
-  * closes #4 - 0.9.99.0 Update Documentation
-  * closes #5 - 0.9.99.0 Update Social Media
+  * closes #1 - SpaceY Corp (SYC) 0.9.99.0-prerelease `<Articles of Incorporation>` edition
+  * closes #2 - 0.9.99.0 Create Legal Mumbo Jumbo
+  * closes #3 - 0.9.99.0 Create Documentation
+  * closes #4 - 0.9.99.0 Create Social Media
 
 ---
+
