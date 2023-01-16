@@ -1,5 +1,5 @@
 {
-	"NAME"		     : "FTP Ltd (FTPL)",
+	"NAME"		     : "FTP Ltd (FTPL) by NecroBones (aka Orvidius)",
 	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/FTPLtd.version",
 	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/FTPLtd/releases/latest",
 	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/changelog.md",
@@ -20,7 +20,7 @@
 	{
 		"MAJOR" : 1,
 		"MINOR" : 12,
-		"PATCH" : 3
+		"PATCH" : 5
 	},
 	"INSTALL_LOC" :
 	{
