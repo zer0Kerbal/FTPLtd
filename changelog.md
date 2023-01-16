@@ -9,6 +9,12 @@
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/FTPLtd)               |
 | spacedock  | (https://spacedock.info/mod/3109)                                 |
 | ckan       | FTPLtd                                                            |
+### Localization 2.0.99.1
+
+* Add
+  * partial Italian (Italiano)
+  * <it-it.cfg> v1.0.1.0
+  * by [MattNot](https://github.com/MattNot)
 
 ## Version 0.9.99.1-prerelease - `<Corporate Assets>` edition
 
