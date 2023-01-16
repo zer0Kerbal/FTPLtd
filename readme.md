@@ -11,7 +11,7 @@ updated: 17 Jan 2023 -->
 
 # FTP Ltd (FTPL)
 
-Adds Fuel Tanks Plus Limited's agent, flags, and common config files used in all Fuel Tanks Plus add-ons for Kerbal Space Program.
+Agent, flags, models, textures, and common config files used in all Fuel Tanks Plus add-ons for Kerbal Space Program.
 
 ## By [`zer0Kerbal`][zer0Kerbal], inspired by, and with content licensed from [`NecroBones`][necrobones]
 
