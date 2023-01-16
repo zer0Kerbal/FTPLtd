@@ -26,7 +26,7 @@ An original creation by *KerbSimpleCo*
 >* [ChangeLog][chlog] Summary for more details of changes
 >* [Known Issues][issue] for more details of feature requests and known issues
 
-### Youtube videos
+### YouTube
 
 #### review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 
