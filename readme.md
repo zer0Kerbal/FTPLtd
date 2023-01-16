@@ -48,6 +48,7 @@ An original creation by *KerbSimpleCo*
 ### Localization
 
 >* ![English][EN] English
+>* ![Italiano][IT]  Italian (Italiano) - courtesy of [MattNot](https://github.com/MattNot)
 >* ***your translation here***
 
 ### Installation Directions [^1]
@@ -206,6 +207,7 @@ agency, flags, config
 [lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
 [qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
 [EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"
+[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png "Italiano"  
 
 [curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
 [reddit]: https://www.reddit.com/user/zer0Kerbal
