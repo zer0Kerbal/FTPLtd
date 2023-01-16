@@ -10,6 +10,55 @@
 | spacedock  | (https://spacedock.info/mod/3109)                                 |
 | ckan       | FTPLtd                                                            |
 
+## Version 0.9.99.1-prerelease - `<Agent Agency>` edition
+
+* Released
+  * 16 Jan 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary
+
+* In anticipation of FTPIS and FTPXL add textures, models, and common config files from FTP
+  * multiple FTP parts addons using one set of models and textures
+* fix texture and agent related issues reported in KSP.log
+
+### Localization 0.9.99.1
+
+* Add
+  * partial Italian (Italiano)
+  * <it-it.cfg> v1.0.0.0
+  * by [MattNot](https://github.com/MattNot)
+* Update
+  * <en-us.cfg> v1.1.1.0
+  * add FTP themes
+  * updates #6 - Localization - Master
+  * updates #7 - English <en-us.cfg>
+  * updates #12 - Italian (Italiano) <it-it.cfg>
+
+### Status 0.9.99.1
+
+* Issues
+  * closes #29 - FTP Ltd (FTPL) 0.9.99.1-prerelease `<Agent Agency>` edition
+  * closes #30 - 0.9.99.1 Verify Legal Mumbo Jumbo
+  * closes #31 - 0.9.99.1 Update Documentation
+  * closes #32 - 0.9.99.1 Update Social Media
+  * closes #33 - [BUG] duplicated mentality in Agent
+  * closes #34 - [BUG] missing agent scaled logo
+
+---
+
+## Version 0.9.99.1-prerelease - `<Corporate Assets>` edition
+
+* 04 Sep 2022  
+* Released for Kerbal Space Program KSP 1.12.3
+
+### Summary 0.9.99.1
+
+* Add Assets
+
+---
+
 ## Version 0.9.99.0-prerelease - `<Articles of Incorporation>` edition
 
 * 04 Sep 2022  
@@ -22,11 +71,11 @@
 * Agent
   * [Agents.cfg] v1.0.0.0
 * Flags
-  * [SpaceY.png]
-  * uses assets from SpaceY Lifters, see Attributions.md for details
+  * [FuelTanksPlus.png]
+  * uses assets from FuelTanksPlus, see Attributions.md for details
 * Create
   * HeroLogo
-* closes #26 - Create HeroLogo.png
+* closes #24 - Create HeroLogo.png
 
 ### Localization
 
@@ -49,14 +98,14 @@
   * [Localizations.md] v1.1.7.0
   * [Notices.md] v1.0.1.0
   * [Why.md] v1.1.0.0
-* closes #24 - Create GitHub Pages
+* closes #26 - Create GitHub Pages
 
 ### Status
 
 * Issues
-  * closes #1 - SpaceY Corp (SYC) 0.9.99.0-prerelease `<Articles of Incorporation>` edition
-  * closes #2 - 0.9.99.0 Create Legal Mumbo Jumbo
-  * closes #3 - 0.9.99.0 Create Documentation
-  * closes #4 - 0.9.99.0 Create Social Media
+  * closes #2 - FTP Ltd (FTPL) 0.9.99.0-prerelease `<Articles of Incorporation>`
+  * closes #3 - 0.9.99.0 Verify Legal Mumbo Jumbo
+  * closes #4 - 0.9.99.0 Update Documentation
+  * closes #5 - 0.9.99.0 Update Social Media
 
 ---
