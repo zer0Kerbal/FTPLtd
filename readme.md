@@ -9,7 +9,6 @@ updated: 17 Jan 2023 -->
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][ckan:shd]][ckan:url]   
 [![Pages][MOD:pages:shd]][MOD:pages]
 
-
 # FTP Ltd (FTPL)
 
 Adds Fuel Tanks Plus Limited's agent, flags, and common config files used in all Fuel Tanks Plus add-ons for Kerbal Space Program.
@@ -55,22 +54,17 @@ An original creation by *KerbSimpleCo*
 
 ### Installation Directions [^1]
 
-***Use***
-  CurseForge/OverWolf App (currently does not install dependencies)  
+Use CurseForge/OverWolf Website/App
 
-<a href="https://download.curseforge.com/"> <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" height="80px"></a>
-<a href="https://download.curseforge.com/"> <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%"></a>
+<a href="https://download.curseforge.com/"><img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" height="80px"></a>
 
-I take no part, nor am I interested in maintaining the [CKAN][ckan:url] mod metadata for my mods. [CKAN][ckan:url] is a great mod for those that can't use zip tools. If you are having issues please let the [CKAN][ckan:url] people know and refer to the [CKAN][ckan:url] thread. My support of [CKAN][ckan:url] extends as far as me checking the checkbox in Spacedock when I upload. Beware, [CKAN][ckan:url] *can* really mess up though it tries very, very, very hard not to.
+or<a href="https://forum.kerbalspaceprogram.com/index.php?/topic/197082-*/"><img src="https://i.postimg.cc/x8XSVg4R/sj507JC.png" alt="CKAN App" height="75px"></a>
 
-or 
-<a href="https://forum.kerbalspaceprogram.com/index.php?/topic/197082-*/"> <img src="https://i.postimg.cc/x8XSVg4R/sj507JC.png" alt="CKAN App" height="75px"></a>
-<a href="https://forum.kerbalspaceprogram.com/index.php?/topic/197082-*/"> <img src="https://i.postimg.cc/x8XSVg4R/sj507JC.png" alt="CKAN App" width="25%" height="25%"></a>
+I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata for my mods. [CKAN][ckan:url] is a great mod for those that can't use zip tools. If you are having issues please let the [CKAN][ckan:url] people know and refer to the [CKAN][ckan:url] thread. My support of [CKAN][ckan:url] extends with checking the checkbox in [SpaceDock][SPCDCK:url]. Beware, [CKAN][ckan:url] *can* really mess up; though it tries very, very, very hard not to.
 
 ### Dependencies
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
-* [Fuel Tanks Plus Ltd (FTPL)][FTPL]
 
 ### Recommends
 
@@ -83,27 +77,25 @@ or
 
 * [On Demand Fuel Cells (ODFC)][ODFC]
 * [Goo Pumps & Oils' (GPO) Speed Pump (GPO)][GPO]
+* [NecroBones][necrobones] suite of mods that play nicely together
+  * [Lithobrake Exploration Technologies (LET)][LET] lander parts, large chutes/legs/ladders/etc
+  * [SpaceY Corporation (SYC)][SYC] 
+    * [SpaceY Lifters (SYL)][SYL] stock-balanced large rocket parts, 5m parts, large SRBs
+    * [SpaceY Expanded (SYE)][SYE]
+  * [The Burger Mod (BURG)][BURG]
+  * [Joolian Discovery (JOOL)][JOOL]
+  * [The Elephant Engine (ELEP)][ELEP]
+  * [Modular Rocket Systems (MRS)][MRS] stock-alike parts pack, NASA-like alternatives, and filling the gaps
+  * [Module Rocket Systems LITE version (MSRL)][MRSL]
+  * [Color Coded Canisters (CCC)][CCC] beautification replacement models/textures for stock tanks, with color-coded end caps, and auto-closing shrouds
+  * [ColorFuel Lines (CFL)][CFL] color-selectable fuel lines
 * [TweakScale][twk]
-
-#### NecroBones suite of mods, that play nicely together
-
-* [Lithobrake Exploration Technologies (LET)][LET] lander parts, large chutes/legs/ladders/etc
-* [SpaceY Corporation (SYC)][SYC] 
-  * [SpaceY Lifters (SYL)][SYL] stock-balanced large rocket parts, 5m parts, large SRBs
-  * [SpaceY Expanded (SYE)][SYE]
-* [The Burger Mod (BURG)][BURG]
-* [Joolian Discovery (JOOL)][JOOL]
-* [The Elephant Engine (ELEP)][ELEP]
-* [Modular Rocket Systems (MRS)][MRS] stock-alike parts pack, NASA-like alternatives, and filling the gaps
-* [Module Rocket Systems LITE version (MSRL)][MRSL]
-* [Color Coded Canisters (CCC)][CCC] (beautification replacement models/textures for stock tanks, with color-coded end caps, and auto-closing shrouds
-* [ColorFuel Lines (CFL)][CFL] color-selectable fuel lines
 
 ### Supports
 
 * Either [^3]
-  * [Module Manager][mm]
   * [Module Manager /L][mml]
+  * [Module Manager][mm]
 
 ### Tags
 
@@ -119,7 +111,7 @@ agency, flags, config
 ### Credits and Special Thanks
 
 * [NecroBones][necrobones] for inspiring this addon!
-* see [Attribution.md][MOD:attr] for more comprehensive list
+* see [Attribution][MOD:attr] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
@@ -133,18 +125,17 @@ agency, flags, config
 > ***All bundled mods are distributed under their own licenses***  
 > ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
 
-##### see [Notices.md][MOD:notic] for more *legal mumbo jumbo*
+##### see [Notices][MOD:notic] for more *legal mumbo jumbo*
 
----
+### How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]  
 
-### DONATIONS: How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]  
-
-> ***Completely voluntary, absolutely amazing, and really does help me out a lot!***
+> ***Completely voluntary, absolutely amazing, and really does help me out a lot!***  
 > quote from <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/32393-*/"><img border="0" alt="cybutek" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2020_06/kappa-kerbal-anarchy.thumb.png.673a2f6f7b36cc60a35c24efef217246.png" width="25px" height="25px"> cybutek</a> creator of <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/17833-130-*/" alt="Kerbal Engineer Redux (KER)"> Kerbal Engineer</a>
 
-[![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
+[![Patreon][PATREON:img]][PATREON:url] [![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url]
 
 *and it is true.*
+
 <!-- mod links -->
 [MOD:attr]: https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/Attribution.md "Attribution"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/changelog.md  "Changelog"
