@@ -7,7 +7,7 @@
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209628-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/FTPLtd)                 |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/FTPLtd)               |
-| spacedock  | (https://spacedock.info/mod/)                                     |
+| spacedock  | (https://spacedock.info/mod/3109)                                 |
 | ckan       | FTPLtd                                                            |
 
 ## Version 0.9.99.0-prerelease - `<Articles of Incorporation>` edition
