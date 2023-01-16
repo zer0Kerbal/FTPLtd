@@ -9,12 +9,44 @@
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/FTPLtd)               |
 | spacedock  | (https://spacedock.info/mod/3109)                                 |
 | ckan       | FTPLtd                                                            |
-### Localization 2.0.99.1
+
+## Version 0.9.99.1-prerelease - `<Agent Agency>` edition
+
+* Released
+  * 16 Jan 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary
+
+* In anticipation of FTPIS and FTPXL add textures, models, and common config files from FTP
+  * multiple FTP parts addons using one set of models and textures
+* fix texture and agent related issues reported in KSP.log
+
+### Localization 0.9.99.1
 
 * Add
   * partial Italian (Italiano)
-  * <it-it.cfg> v1.0.1.0
+  * <it-it.cfg> v1.0.0.0
   * by [MattNot](https://github.com/MattNot)
+* Update
+  * <en-us.cfg> v1.1.1.0
+  * add FTP themes
+  * updates #6 - Localization - Master
+  * updates #7 - English <en-us.cfg>
+  * updates #12 - Italian (Italiano) <it-it.cfg>
+
+### Status 0.9.99.1
+
+* Issues
+  * closes #29 - FTP Ltd (FTPL) 0.9.99.1-prerelease `<Agent Agency>` edition
+  * closes #30 - 0.9.99.1 Verify Legal Mumbo Jumbo
+  * closes #31 - 0.9.99.1 Update Documentation
+  * closes #32 - 0.9.99.1 Update Social Media
+  * closes #33 - [BUG] duplicated mentality in Agent
+  * closes #34 - [BUG] missing agent scaled logo
+
+---
 
 ## Version 0.9.99.1-prerelease - `<Corporate Assets>` edition
 
