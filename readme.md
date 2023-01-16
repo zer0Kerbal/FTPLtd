@@ -1,7 +1,7 @@
-<!-- readme.md v1.6.9.7
+<!-- readme.md v1.7.0.1
 FTP Ltd (FTPL)
 created: 17 Jul 2017
-updated: 04 Sep 2022 -->
+updated: 17 Jan 2023 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
@@ -29,8 +29,6 @@ An original creation by *KerbSimpleCo*
 >* [ChangeLog][MOD:chlog] Summary for more details of changes
 >* [Known Issues][MOD:issue] for more details of feature requests and known issues
 
----
-
 ### Youtube videos
 
 #### review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
@@ -46,40 +44,26 @@ An original creation by *KerbSimpleCo*
 > * Logo(s) for FTP Ltd
 > * *lorem ipsum* text for the Agency description
 > * Additional flags
-> * Compatibility patches
+> * Marketing Images and Videos such as hero shots, animated gifs, short highlights
+> * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
-
----
 
 ### Localization
 
 >* ![English][EN] English
 >* ***your translation here***
->
-> HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
-
----
 
 ### Installation Directions [^1]
 
 ***Use***
   CurseForge/OverWolf App (currently does not install dependencies)  
 
-  <a href="https://download.curseforge.com/">
-    <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
-</a>
+<a href="https://download.curseforge.com/"> <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%"></a>
 
-I take no part, nor am I interested in maintaining the [CKAN][ckan:url] mod metadata for my mods.
+I take no part, nor am I interested in maintaining the [CKAN][ckan:url] mod metadata for my mods. [CKAN][ckan:url] is a great mod for those that can't use zip tools. If you are having issues please let the [CKAN][ckan:url] people know and refer to the [CKAN][ckan:url] thread. My support of [CKAN][ckan:url] extends as far as me checking the checkbox in Spacedock when I upload. Beware, [CKAN][ckan:url] *can* really mess up though it tries very, very, very hard not to.
 
-[CKAN][ckan:url] is a great mod for those that can't use zip tools.
-
-If you are having issues please let the [CKAN][ckan:url] people know and refer to the [CKAN][ckan:url] thread.
-
-My support of [CKAN][ckan:url] extends as far as me checking the checkbox in Spacedock when I upload.
-
-Beware, [CKAN][ckan:url] *can* really mess up though it tries very, very, very hard not to.
-
-or [![CKAN][ckan:img]][ckan:url]
+or 
+<a href="https://forum.kerbalspaceprogram.com/index.php?/topic/197082-*/"> <img src="https://i.postimg.cc/x8XSVg4R/sj507JC.png" alt="CKAN App" width="100%" height="100%"></a>
 
 ### Dependencies
 
