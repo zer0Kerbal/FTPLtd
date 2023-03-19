@@ -17,7 +17,7 @@
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-### Summary
+### Summary 0.9.99.1
 
 * In anticipation of FTPIS and FTPXL add textures, models, and common config files from FTP
   * multiple FTP parts addons using one set of models and textures
