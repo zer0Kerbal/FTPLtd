@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/3109)                                 |
 | ckan       | FTPLtd                                                            |
 
-## Version 0.9.99.2-internal - `<Corporate Assets>` edition
+## Version 0.9.99.2-prerelease - `<Corporate Assets>` edition
 
 * Released
   * 31 Mar 2023
