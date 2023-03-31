@@ -71,9 +71,6 @@ Most recent releases only available via CurseForge/OverWolf Website/App
   * [Fuel Tanks Plus (FTP)][FTP]
   * [Fuel Tanks Plus Xtra Kerbal (FTPXK)][FTPXK]
   * [Fuel Tanks Plus IS (FTPIS)][FTPIS]
-
-### Recommends
-
 * [NecroBones][necrobones] suite of mods that play nicely together
   * [Lithobrake Exploration Technologies (LET)][LET] lander parts, large chutes/legs/ladders/etc
   * [SpaceY Corporation (SYC)][SYC] 
