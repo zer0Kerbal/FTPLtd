@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | FTP Ltd (FTPL)                                                    |
+| modName    | FTP Limited (FTPL)                                                |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                      |
 | author     | NecroBones and zer0Kerbal                                         |
@@ -10,6 +10,45 @@
 | spacedock  | (https://spacedock.info/mod/3109)                                 |
 | ckan       | FTPLtd                                                            |
 
+## Version 0.9.99.2-internal - `<Corporate Assets>` edition
+
+* Released
+  * 31 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 0.9.99.2
+
+* Add Português Brasil by [Lisas](https://github.com/Lisias)
+* Update Documentation and links
+
+### Changes 0.9.99.2
+
+* Update
+  * [Agents.md] v1.1.2.0
+    * comment out redundancy
+* Add
+  * <pt-br.cfg> v1.0.0.0
+    * Português Brasil
+    * by [Lisas](https://github.com/Lisias)
+  * Assets
+* Update
+  * <en-us.cfg> v1.1.2.0
+  * <pt-br.cfg> v1.0.1.0
+  * <it-it.cfg> v1.1.0.0
+  * closes #12 - Italian (Italiano) <it-it.cfg>
+  * closes #7 - English <en-us.cfg>
+  * closes #8 - Brazilian Portuguese (Português Brasil) <pt-br.cfg>
+  * updates #6 - Localization - Master
+
+### Status 0.9.99.2
+
+* Issues
+  * closes #37 - FTP Limited (FTPL) 0.9.99.2-prerelease `<Corporate Assets>` edition
+  * closes #38 - 0.9.99.2 Additional Tasks
+
+---
+
 ## Version 0.9.99.1-prerelease - `<Agent Agency>` edition
 
 * Released
@@ -17,7 +56,7 @@
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-### Summary
+### Summary 0.9.99.1
 
 * In anticipation of FTPIS and FTPXL add textures, models, and common config files from FTP
   * multiple FTP parts addons using one set of models and textures
@@ -26,9 +65,10 @@
 ### Localization 0.9.99.1
 
 * Add
-  * partial Italian (Italiano)
   * <it-it.cfg> v1.0.0.0
-  * by [MattNot](https://github.com/MattNot)
+    * partial Italian (Italiano)
+    * by [MattNot](https://github.com/MattNot)
+  * Assets
 * Update
   * <en-us.cfg> v1.1.1.0
   * add FTP themes
@@ -39,23 +79,12 @@
 ### Status 0.9.99.1
 
 * Issues
-  * closes #29 - FTP Ltd (FTPL) 0.9.99.1-prerelease `<Agent Agency>` edition
+  * closes #29 - FTP Limited (FTPL) 0.9.99.1-prerelease `<Agent Agency>` edition
   * closes #30 - 0.9.99.1 Verify Legal Mumbo Jumbo
   * closes #31 - 0.9.99.1 Update Documentation
   * closes #32 - 0.9.99.1 Update Social Media
   * closes #33 - [BUG] duplicated mentality in Agent
   * closes #34 - [BUG] missing agent scaled logo
-
----
-
-## Version 0.9.99.1-prerelease - `<Corporate Assets>` edition
-
-* 04 Sep 2022  
-* Released for Kerbal Space Program KSP 1.12.3
-
-### Summary 0.9.99.1
-
-* Add Assets
 
 ---
 
@@ -103,7 +132,7 @@
 ### Status
 
 * Issues
-  * closes #2 - FTP Ltd (FTPL) 0.9.99.0-prerelease `<Articles of Incorporation>`
+  * closes #2 - FTP Limited (FTPL) 0.9.99.0-prerelease `<Articles of Incorporation>`
   * closes #3 - 0.9.99.0 Verify Legal Mumbo Jumbo
   * closes #4 - 0.9.99.0 Update Documentation
   * closes #5 - 0.9.99.0 Update Social Media

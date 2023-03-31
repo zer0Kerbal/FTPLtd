@@ -1,5 +1,5 @@
 <!-- readme.md v0.9.99.1
-FTP Ltd (FTPL)
+FTP Limited (FTPL)
 created: 01 Sep 2022
 updated: 31 Mar 2023
 
@@ -10,7 +10,7 @@ updated: 15 Mar 2023
 this file: CC BY-ND 4.0 by zer0Kerbal -->
 # FTP Limited (FTPL)
 
-[![FTP Ltd (FTPL)][SHD:mod]][FTPL]  
+[![FTP Limited (FTPL)][SHD:mod]][FTPL]  
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
@@ -51,8 +51,8 @@ An original creation by *KerbSimpleCo*
 ### Localization
 
 >* ![English][EN] English
->* ![Português Brasil][BR]  Português Brasil - courtesy of [Lisias](https://github.com/Lisias)
->* ![Italiano][IT]  Italian (Italiano) - courtesy of [MattNot](https://github.com/MattNot)
+>* ![Português Brasil][BR] Brazilian Portuguese (Português Brasil) - courtesy of [Lisias](https://github.com/Lisias)
+>* ![Italiano][IT] Italian (Italiano) - courtesy of [MattNot](https://github.com/MattNot)
 >* ***your translation here***
 
 ### Installation Directions
@@ -71,9 +71,6 @@ Most recent releases only available via CurseForge/OverWolf Website/App
   * [Fuel Tanks Plus (FTP)][FTP]
   * [Fuel Tanks Plus Xtra Kerbal (FTPXK)][FTPXK]
   * [Fuel Tanks Plus IS (FTPIS)][FTPIS]
-
-### Recommends
-
 * [NecroBones][necrobones] suite of mods that play nicely together
   * [Lithobrake Exploration Technologies (LET)][LET] lander parts, large chutes/legs/ladders/etc
   * [SpaceY Corporation (SYC)][SYC] 

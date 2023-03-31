@@ -1,5 +1,5 @@
 {
-	"NAME"		     : "FTP Ltd (FTPL)",
+	"NAME"		     : "FTP Limited (FTPL)",
 	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/FTPLtd.version",
 	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/FTPLtd/releases/latest",
 	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/changelog.md",
@@ -14,7 +14,7 @@
 		"MAJOR" : 0,
 		"MINOR" : 9,
 		"PATCH" : 99,
-		"BUILD" : 1
+		"BUILD" : 2
 	},
 	"KSP_VERSION" :
 	{
