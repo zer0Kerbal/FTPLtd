@@ -5,16 +5,21 @@ description: The Opening Credits, and the closing credits, plus the first of two
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!--
-Attributions.md v1.0.7.1
-FTP Ltd (FTPL)
+Attributions.md v1.0.3.0
+FTP Limited (FTPL)
+created: 01 Sep 2022
+updated: 31 Mar 2023
+
+TEMPLATE: Attributions.md v1.0.9.0
 created: 01 Feb 2022
-updated: 03 Jun 2022
--->
+updated: 15 Mar 2023
+
+this file: CC BY-ND 4.0 by zer0Kerbal -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# FTP Ltd (FTPL)
+# FTP Limited (FTPL)
 
 [Home](./index.md)
 
@@ -51,6 +56,7 @@ updated: 03 Jun 2022
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png " alt="Português Brasil" style="zoom:100%;" /> Brazilian Portuguese (Português Brasil) - courtesy of <a href="https://github.com/Lisias" alt="Lisias">Lisias</a></li>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png " alt="Italiano" style="zoom:100%;" /> Italian (Italiano) - courtesy of <a href="https://github.com/MattNot" alt="MattNot">Mattnot</a></li>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
