@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | FTP Limited (FTPL)                                                    |
+| modName    | FTP Limited (FTPL)                                                |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                      |
 | author     | NecroBones and zer0Kerbal                                         |
