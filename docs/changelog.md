@@ -5,12 +5,12 @@ description: The Opening Credits, and the closing credits, plus the first of two
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- hdr-changelog.md v1.0.0.0
-FTP Ltd (FTPL)
+FTP Limited (FTPL)
 created: 13 May 2022
 updated:
 this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog  
   
-| modName    | FTP Ltd (FTPL)                                                    |
+| modName    | FTP Limited (FTPL)                                                    |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                      |
 | author     | NecroBones and zer0Kerbal                                         |
@@ -49,7 +49,7 @@ this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog
 ### Status 0.9.99.1
 
 * Issues
-  * closes #29 - FTP Ltd (FTPL) 0.9.99.1-prerelease `<Agent Agency>` edition
+  * closes #29 - FTP Limited (FTPL) 0.9.99.1-prerelease `<Agent Agency>` edition
   * closes #30 - 0.9.99.1 Verify Legal Mumbo Jumbo
   * closes #31 - 0.9.99.1 Update Documentation
   * closes #32 - 0.9.99.1 Update Social Media
@@ -113,7 +113,7 @@ this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog
 ### Status
 
 * Issues
-  * closes #2 - FTP Ltd (FTPL) 0.9.99.0-prerelease `<Articles of Incorporation>`
+  * closes #2 - FTP Limited (FTPL) 0.9.99.0-prerelease `<Articles of Incorporation>`
   * closes #3 - 0.9.99.0 Verify Legal Mumbo Jumbo
   * closes #4 - 0.9.99.0 Update Documentation
   * closes #5 - 0.9.99.0 Update Social Media
