@@ -26,9 +26,10 @@
 ### Localization 0.9.99.1
 
 * Add
-  * partial Italian (Italiano)
   * <it-it.cfg> v1.0.0.0
-  * by [MattNot](https://github.com/MattNot)
+    * partial Italian (Italiano)
+    * by [MattNot](https://github.com/MattNot)
+  * Assets
 * Update
   * <en-us.cfg> v1.1.1.0
   * add FTP themes
@@ -45,17 +46,6 @@
   * closes #32 - 0.9.99.1 Update Social Media
   * closes #33 - [BUG] duplicated mentality in Agent
   * closes #34 - [BUG] missing agent scaled logo
-
----
-
-## Version 0.9.99.1-prerelease - `<Corporate Assets>` edition
-
-* 04 Sep 2022  
-* Released for Kerbal Space Program KSP 1.12.3
-
-### Summary 0.9.99.1
-
-* Add Assets
 
 ---
 
