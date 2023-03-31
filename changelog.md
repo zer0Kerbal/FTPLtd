@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | FTP Ltd (FTPL)                                                    |
+| modName    | FTP Limited (FTPL)                                                    |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                      |
 | author     | NecroBones and zer0Kerbal                                         |
@@ -44,7 +44,7 @@
 ### Status 0.9.99.2
 
 * Issues
-  * closes #37 - FTP Ltd (FTPL) 0.9.99.2-prerelease `<Corporate Assets>` edition
+  * closes #37 - FTP Limited (FTPL) 0.9.99.2-prerelease `<Corporate Assets>` edition
   * closes #38 - 0.9.99.2 Additional Tasks
 
 ---
@@ -79,7 +79,7 @@
 ### Status 0.9.99.1
 
 * Issues
-  * closes #29 - FTP Ltd (FTPL) 0.9.99.1-prerelease `<Agent Agency>` edition
+  * closes #29 - FTP Limited (FTPL) 0.9.99.1-prerelease `<Agent Agency>` edition
   * closes #30 - 0.9.99.1 Verify Legal Mumbo Jumbo
   * closes #31 - 0.9.99.1 Update Documentation
   * closes #32 - 0.9.99.1 Update Social Media
@@ -132,7 +132,7 @@
 ### Status
 
 * Issues
-  * closes #2 - FTP Ltd (FTPL) 0.9.99.0-prerelease `<Articles of Incorporation>`
+  * closes #2 - FTP Limited (FTPL) 0.9.99.0-prerelease `<Articles of Incorporation>`
   * closes #3 - 0.9.99.0 Verify Legal Mumbo Jumbo
   * closes #4 - 0.9.99.0 Update Documentation
   * closes #5 - 0.9.99.0 Update Social Media
