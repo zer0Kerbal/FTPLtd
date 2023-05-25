@@ -1,26 +1,26 @@
-<!-- readme.md v0.9.99.1
+<!-- readme.md v1.0.0.0
 FTP Limited (FTPL)
 created: 01 Sep 2022
-updated: 31 Mar 2023
+updated: 25 May 2023
 
-TEMPLATE: readme.md v1.7.1.0
+TEMPLATE: readme.md v1.7.3.1
 created: 17 Jul 2017
-updated: 15 Mar 2023
+updated: 06 May 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
-# FTP Limited (FTPL)
+# [FTP Limited (FTPL)][FTPL]
 
-[![FTP Limited (FTPL)][SHD:mod]][FTPL]  
+[![FTP Limited (FTPL)][SHD:mod]][CURSFG:url]  
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
-Agent, flags, models, textures, and common config files used in all [Fuel Tanks Plus][FTPL] add-ons for Kerbal Space Program.
+Agent, flags, models, textures, and common files used in all [Fuel Tanks Plus][FTPL] add-ons for Kerbal Space Program.
 
 ## By [`zer0Kerbal`][zer0Kerbal], inspired by, and with content licensed from [`NecroBones`][necrobones]
 
 An original creation by *KerbSimpleCo*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/img/HeroLogo_1920x1920.png" alt="FTPLtd Hero" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/img/HeroLogo.png" alt="FTPLtd (FTPL))" width="50%" height="50%">
 
 ### See
 
@@ -29,15 +29,24 @@ An original creation by *KerbSimpleCo*
 >* [ChangeLog][chlog] Summary for more details of changes
 >* [Known Issues][issue] for more details of feature requests and known issues
 
-### YouTube
+<details>
+  <summary><img src="https://cdn.pixabay.com/photo/2014/05/14/14/17/youtube-344106_960_720.png" alt="Youtube logo" height="33px" width="66px"></summary>
 
-#### review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
-
+> Review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
+>
 [![KSP Mods - Fuel Tanks Plus](https://img.youtube.com/vi/bWo2u1lKdaY/0.jpg)](https://www.youtube.com/watch?v=bWo2u1lKdaY)
-
-#### KSP FuelTanksPlus 1.0 Overhaul by [NecroBones][necrobones]
-
+>
+>KSP FuelTanksPlus 1.0 Overhaul by [NecroBones][necrobones]
+>
 [![KSP FuelTanksPlus 1.0 Overhaul](https://img.youtube.com/vi/wuxzfhtiCgI/0.jpg)](https://www.youtube.com/watch?v=wuxzfhtiCgI)
+</details>
+
+### Localization
+
+>* ![English][EN] English
+>* ![Português Brasil][BR] Brazilian Portuguese (Português Brasil) - courtesy of [Lisias](https://github.com/Lisias)
+>* ![Italiano][IT] Italian (Italiano) - courtesy of [MattNot](https://github.com/MattNot)
+>* ***your translation here***
 
 ### Help Wanted
 
@@ -47,13 +56,6 @@ An original creation by *KerbSimpleCo*
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
 > * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][issue].
-
-### Localization
-
->* ![English][EN] English
->* ![Português Brasil][BR] Brazilian Portuguese (Português Brasil) - courtesy of [Lisias](https://github.com/Lisias)
->* ![Italiano][IT] Italian (Italiano) - courtesy of [MattNot](https://github.com/MattNot)
->* ***your translation here***
 
 ### Installation Directions
 
