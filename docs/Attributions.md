@@ -14,7 +14,7 @@ TEMPLATE: Attributions.md v1.0.9.0
 created: 01 Feb 2022
 updated: 15 Mar 2023
 
-this file: CC BY-ND 4.0 by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
@@ -82,4 +82,4 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
 
 * none (yet)
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
