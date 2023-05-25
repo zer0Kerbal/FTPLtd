@@ -18,7 +18,32 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal --># Changelog
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/FTPLtd)                 |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/FTPLtd)               |
 | spacedock  | (https://spacedock.info/mod/3109)                                 |
-| ckan       | FTPLtd                                                            |
+
+## Version 1.0.0.0-release - `<Initial Public Offering>` edition
+
+* Released
+  * 25 May 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 1.0.0.0
+
+* Update
+  * fix Agent texture issues
+  * resize flag to 512x320
+  * Documentation and links
+
+### Changes 1.0.0.0
+
+* Update
+  * fix Agent texture issues
+  * resize flag to 512x320
+  * Documentation and links
+* Issues
+  * closes #42 - FTP Ltd (FTPL) 1.0.0.0-release `<Initial Public Offering>` edition
+  * closes #43 - 1.0.0.0 Additional Tasks
+
+---
 
 ## Version 0.9.99.2-prerelease - `<Corporate Assets>` edition
 
