@@ -1,0 +1,30 @@
+{
+	"NAME"		     : "FTP Limited (FTPL)",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/FTPLtd.version",
+	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/FTPLtd/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/changelog.md",
+	"GITHUB" :
+	{
+		"USERNAME"	        : "zer0Kerbal",
+		"REPOSITORY"		: "FTPLtd",
+		"ALLOW_PRE_RELEASE" : false
+	},
+	"VERSION" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 0,
+		"PATCH" : 0,
+		"BUILD" : 0
+	},
+	"KSP_VERSION" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 12,
+		"PATCH" : 5
+	},
+	"INSTALL_LOC" :
+	{
+		"NAME"      : "FTPLtd",
+		"DIRECTORY" : "FuelTanksPlus/FTPLtd"
+	}
+}
