@@ -8,7 +8,37 @@
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/FTPLtd)                 |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/FTPLtd)               |
 | spacedock  | (https://spacedock.info/mod/3109)                                 |
-| ckan       | FTPLtd                                                            |
+
+## Version 1.0.0.0-release - `<Initial Public Offering>` edition
+
+* Released
+  * 25 May 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 1.0.0.0
+
+* Fix Agent texture issues
+* Update Documentation and links
+
+### Changes 1.0.0.0
+
+* Update
+  * [Agents.md] v1.1.2.0
+    * comment out redundancy
+  * Localizations
+    * <en-us.cfg> v1.1.2.0
+    * <pt-br.cfg> v1.0.1.0
+    * <it-it.cfg> v1.1.0.0
+* Issues
+  * closes #42 - FTP Ltd (FTPL) 1.0.0.0-release `<Initial Public Offering>` edition
+  * closes #43 - 1.0.0.0 Additional Tasks
+  * closes #12 - Italian (Italiano) <it-it.cfg>
+  * closes #7 - English <en-us.cfg>
+  * closes #8 - Brazilian Portuguese (Português Brasil) <pt-br.cfg>
+  * updates #6 - Localization - Master
+
+---
 
 ## Version 0.9.99.2-prerelease - `<Corporate Assets>` edition
 
