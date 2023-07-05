@@ -9,6 +9,13 @@
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/FTPLtd)               |
 | spacedock  | (https://spacedock.info/mod/3109)                                 |
 
+
+* [Themes.cfg] v1.3.1.0
+  * Bring out the pruning sheers!
+    * `-name` has grafted onto several colors.
+    * `-` have doubled in length in several locations.
+  * uppercase all color codes 
+
 ## Version 1.0.0.0-release - `<Initial Public Offering>` edition
 
 * Released
