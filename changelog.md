@@ -2,19 +2,78 @@
   
 | modName    | FTP Limited (FTPL)                                                |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-SA-4.0                                                      |
+| license    | CC-BY-SA-4.0+ARR                                                  |
 | author     | NecroBones and zer0Kerbal                                         |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209628-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/FTPLtd)                 |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/FTPLtd)               |
 | spacedock  | (https://spacedock.info/mod/3109)                                 |
 
+## Version 1.0.1.0-release - `<Спасибо evanisrael>` edition
+
+* Released
+  * 04 Jul 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 1.0.1.0
+
+* Clean and lint Themes
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [evanisrael](https://github.com/evanisrael)
+
+### Changes 1.0.1.0
+
+#### Config 1.0.1.0
 
 * [Themes.cfg] v1.3.1.0
   * Bring out the pruning sheers!
     * `-name` has grafted onto several colors.
     * `-` have doubled in length in several locations.
-  * uppercase all color codes 
+  * uppercase all color codes
+* closes #49 - [BUG] Themes '-name' and '--'
+
+#### Localization 1.0.1.0
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github.com/evanisrael)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github.com/evanisrael)
+* Update
+  * add header, give credit
+    * [ru.cfg] v1.0.1.0
+  * update theme strings
+  * add Fuel Switcher strings
+    * [pt-br.cfg] v1.0.2.0
+    * [ru.cfg] v1.0.2.0
+    * [en-us.cfg] v1.0.2.0
+    * [it-it.cfg] v1.0.2.0
+* closes #14 - Russian (Русский) <ru.cfg>
+* updates #12 - Italian (Italiano) <it-it.cfg>
+* updates #6 - Localization - Master
+* updates #7 - English <en-us.cfg>
+* updates #8 - Brazilian Portuguese (Português Brasil) <pt-br.cfg>
+
+#### Documentation 1.0.1.0
+
+* Update
+  * [Attributions.md] v1.0.1.0
+  * [Localizations.md] v1.0.1.0
+  * [readme.md] v1.0.1.0
+  * [ReleaseLayout.md] v1.0.1.0
+
+### Status 1.0.1.0
+
+* Issues
+  * closes #46 - FTP Ltd (FTPL) 1.0.1.0-release `<Спасибо evanisrael>` edition
+  * closes #47 - 1.0.1.0 Additional Tasks
+
+---
 
 ## Version 1.0.0.0-release - `<Initial Public Offering>` edition
 
